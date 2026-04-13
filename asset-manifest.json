@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/apsvt/static/js/main.7a7b6298.js",
+    "main.js": "/apsvt/static/js/main.86ad47bd.js",
     "static/media/logo.png": "/apsvt/static/media/logo.4891fa20c253d082742f.png",
     "index.html": "/apsvt/index.html",
-    "main.7a7b6298.js.map": "/apsvt/static/js/main.7a7b6298.js.map"
+    "main.86ad47bd.js.map": "/apsvt/static/js/main.86ad47bd.js.map"
   },
   "entrypoints": [
-    "static/js/main.7a7b6298.js"
+    "static/js/main.86ad47bd.js"
   ]
 }
